@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "eJVyixGGKPg=",
+  "success": true,
+  "projectFilePath": "/Users/sachin/RiderProjects/AzureServiceBusSamples/AzureServiceBusSamples/AzureServiceBusSamples.csproj",
+  "expectedPackageFiles": [
+    "/Users/sachin/.nuget/packages/azure.core/1.46.2/azure.core.1.46.2.nupkg.sha512",
+    "/Users/sachin/.nuget/packages/azure.core.amqp/1.3.1/azure.core.amqp.1.3.1.nupkg.sha512",
+    "/Users/sachin/.nuget/packages/azure.messaging.servicebus/7.20.1/azure.messaging.servicebus.7.20.1.nupkg.sha512",
+    "/Users/sachin/.nuget/packages/microsoft.aspnetcore.openapi/10.0.0/microsoft.aspnetcore.openapi.10.0.0.nupkg.sha512",
+    "/Users/sachin/.nuget/packages/microsoft.azure.amqp/2.7.0/microsoft.azure.amqp.2.7.0.nupkg.sha512",
+    "/Users/sachin/.nuget/packages/microsoft.bcl.asyncinterfaces/8.0.0/microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
+    "/Users/sachin/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512",
+    "/Users/sachin/.nuget/packages/system.clientmodel/1.4.2/system.clientmodel.1.4.2.nupkg.sha512",
+    "/Users/sachin/.nuget/packages/system.memory.data/6.0.1/system.memory.data.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
